@@ -1,11 +1,11 @@
-# CurrIculo
-
-## Dados Pessoais
+# Currículo
+----
+## ** Dados Pessoais **
 
 - Marília SP
 - Brasil 
 - eduardosilvaads33@gmail.com
-## Experiencias
+----
+## ** Experiências **
 
-- Telesserviços 
-
+- Telesserviços
